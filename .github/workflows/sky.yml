@@ -31,9 +31,9 @@ jobs:
 
       - uses: yuki4266/living-scene@v1
         with:
-          lat: "35.99"          # Durham, NC
-          lon: "-78.90"
-          tz: America/New_York
+          lat: "30.57"          # Chengdu, China
+          lon: "104.07"
+          tz: Asia/Shanghai
           weather: ${{ inputs.weather }}
           season: ${{ inputs.season }}
           force: ${{ inputs.force }}

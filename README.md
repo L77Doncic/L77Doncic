@@ -1,4 +1,4 @@
-### Hello World !👋 I'm Tao Xu (Luka / 许涛).
+### Hello World !👋 I'm Tao Xu (Luka).
 
 - ✨ I'm an incoming direct Ph.D. student in **Software Engineering** at **Nanjing University**, advised by [Prof. Jun Lyu](https://meiye-lj.github.io/) and [Prof. He Zhang](https://softeng.nju.edu.cn/faculty/HeZhang/).
 - 🌱 I learned **Computer Science and Technology** at **Sichuan University**.
